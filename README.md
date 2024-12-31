@@ -4,11 +4,8 @@ I am a passionate Full-Stack Developer studying Computer Science at UC Santa Cru
 
 ## Currently Working on:
 
-- 🧑‍🏫 **Explore Careers** : An online platform to help students discover different careers
-- 💮 **Blossom** : A form of human bingo; platform that serves as a bridge for human connection based on topics or subjects that is related to the event they're in or amongst themselves.
-- 📙 **Causeway** : An online educative platform to better assist students learn concepts using micro-roles. ([Research Paper](https://tech4good.soe.ucsc.edu/assets/docs/chi-2019-ca.pdf))
-- 🦦 **Sea Otter Savvy** : Mobile application that utilizes data to provide tailored options for observing sea otters.
-- 🐇 **Native Animal Rescue** : Mobile application to provide a platform to track volunteer hours and participation in Native Animal Rescue organization.
+- 💸 **Avaris** : A simple money tracking application for budgetting and expense report. Purely in PHP to be more familiar with the language. Using UI templates!
+- 🚜 **Rayzist Photomask Company Website** : Revamping my job's main website to a cleaner and more user-friendly webiste. _(Phase 1: January 2025)_
 - 👯 **Nex** : TBD
 
 ## Where to Find Me
