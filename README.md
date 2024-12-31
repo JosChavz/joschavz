@@ -1,6 +1,6 @@
 <h1 align="center">🤙🏽 Hola! I'm José Manuel Chavez</h1>
 
-I am a passionate Full-Stack Developer studying Computer Science at UC Santa Cruz. 🥽
+I am a passionate Full-Stack Developer with a bachelor degree in Computer Science from UC Santa Cruz. Begging and crying for a new $100k+ job.
 
 ## Currently Working on:
 
