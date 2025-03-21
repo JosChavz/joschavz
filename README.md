@@ -4,8 +4,8 @@ I am a passionate Full-Stack Developer with a bachelor degree in Computer Scienc
 
 ## Currently Working on:
 
-- 💸 **Avaris** : A simple money tracking application for budgetting and expense report. Purely in PHP to be more familiar with the language. Using UI templates!
-- 🚜 **Rayzist Photomask Company Website** : Revamping my job's main website to a cleaner and more user-friendly webiste. _(Phase 1: January 2025)_
+- 💸 **Avaris** : A simple money tracking application for budgetting and expense report. Purely in PHP to be more familiar with the language. Using UI templates! Written in PHP for practice but planning to create it in JS.
+- 🚜 **Rayzist Photomask Company Website** : Revamping my job's main website to a cleaner and more user-friendly website. _(Phase 2: May 2025)_
 - 👯 **Nex** : TBD
 
 ## Where to Find Me
